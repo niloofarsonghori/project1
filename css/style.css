@@ -1,0 +1,105 @@
+
+    body{
+        text-align: center;
+        font-family:'Times New Roman', Times, serif;
+        margin: 0;
+        }
+         .dev{
+        font-size: 1.5rem;
+     text-decoration: underline;   
+    }
+    h3{
+        font-family:cursive;
+        color: #022e57;
+    }
+    hr{
+        border: 10px dotted;
+        width: 10%;
+        border-color: #39a9cb;
+        border-bottom:none;
+    }
+    .top-container{
+        background-color:#cae9f5;
+       position: relative;
+        padding-top: 50px;
+    }
+    
+    .bottom-container{
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        height: 125px;
+        padding-top: 30px;
+    }
+    h1{
+        font-weight: lighter;
+        font-family:fantasy;
+        color: #7e0cfa;
+        font-size:  2rem ;
+        margin: 0 auto;
+        padding-top: 50px;
+        width: 20%;
+    }
+    h2{
+        font-family:initial;
+        color: #022e57;
+        font-size:1.5rem ;
+    }
+    .middle-container{
+     padding-top: 75px;
+    }
+    .profile_pic{
+        border-radius: 50%;
+        width: 300px;
+    }
+    .cloud2{
+        position:relative;
+        margin-right: 20%;
+        margin-bottom: 10%;
+        width: 125px;
+        height: 125px;
+    }
+    .mmountain{
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        width:100px;
+        height:200px;
+    }
+    .cloud1{
+        position: relative;
+        margin-left: 30%;
+        width:125px;
+        height:125px;
+    }
+    .greating{
+        color: #39a9cb;
+        font-size: 2rem;
+    }
+    .profile{
+        width: 50%;
+        margin: 0 auto 50px;
+    }
+    .skills{
+       margin: 75px auto;
+       width: 50%;
+    }
+    .skill_row{
+       margin-bottom: 100px;
+       text-align: left;
+    }
+    p{
+        line-height: 2;
+        font-style:italic;
+    }
+    .teaching-skill{
+       width: 25%;
+       float: left;
+       margin-right: 25px;
+    }
+    .coding-skill{
+        width: 25%;
+        float: right;
+        margin-left: 25px;
+    }
+    
